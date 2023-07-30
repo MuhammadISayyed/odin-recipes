@@ -1,0 +1,15 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.big-head{
+    font-size: 40px;
+    font-weight: bolder;
+    color: yellow;
+    background-color: black;
+}
+
+p{
+    font-size: 24px;
+    color: black;
+}
